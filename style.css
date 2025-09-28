@@ -53,7 +53,7 @@ body {
 
 /* fixed hover selector */
 .btn:hover:not([disabled]) {
-    background: rgb(241, 76, 104);
+    background: rgb(230, 90, 113);
     color: #fff;
 }
 
